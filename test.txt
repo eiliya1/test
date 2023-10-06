@@ -1,2 +1,3 @@
 this a text file for test
-hello 
+hello
+hello git
